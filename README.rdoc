@@ -1,0 +1,14 @@
+= Rubybooty GUI
+
+The Rubybooty is a simple tool to help Ruby groups hold a lottery to help raise money for the group.
+
+
+== As command line app
+
+  $ gem install rubybooty
+  $ rubybooty
+  
+== As GUI app
+  1. Install Shoes.rb
+  2. Open the run.rb file in shoes
+
