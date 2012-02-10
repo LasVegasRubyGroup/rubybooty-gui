@@ -1,11 +1,7 @@
-# Shoes.setup do
-#   source "http://rubygems.org"
-#   gem "rubybooty"
-# end
-require_relative 'rubybooty'
+require File.join(Dir.pwd, 'rubybooty')
 
 include Rubybooty
-Shoes.app do
+Shoes.app(title: 'LVRUG Rubybooty', width: 760) do
   @entrants = {}
   @checks = {}
   @names_list = []
