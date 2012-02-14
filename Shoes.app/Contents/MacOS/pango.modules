@@ -1,0 +1,36 @@
+# Pango Modules file
+# Automatically generated file, do not edit
+#
+# ModulesPath = /Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules
+#
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-arabic-fc.so ArabicScriptEngineFc PangoEngineShape PangoRenderFc arabic:* nko:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-arabic-lang.so ArabicScriptEngineLang PangoEngineLang PangoRenderNone arabic:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-basic-atsui.so BasicScriptEngineATSUI PangoEngineShape PangoRenderATSUI common:
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-basic-fc.so BasicScriptEngineFc PangoEngineShape PangoRenderFc latin:* cyrillic:* greek:* armenian:* georgian:* runic:* ogham:* bopomofo:* cherokee:* coptic:* deseret:* ethiopic:* gothic:* han:* hiragana:* katakana:* old-italic:* canadian-aboriginal:* yi:* braille:* cypriot:* limbu:* osmanya:* shavian:* linear-b:* ugaritic:* glagolitic:* cuneiform:* phoenician:* common:
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-basic-x.so BasicScriptEngineX PangoEngineShape PangoRenderX common:
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-hangul-fc.so HangulScriptEngineFc PangoEngineShape PangoRenderFc hangul:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-hebrew-fc.so HebrewScriptEngineFc PangoEngineShape PangoRenderFc hebrew:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so devaScriptEngineFc PangoEngineShape PangoRenderFc devanagari:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so bengScriptEngineFc PangoEngineShape PangoRenderFc bengali:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so guruScriptEngineFc PangoEngineShape PangoRenderFc gurmukhi:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so gujrScriptEngineFc PangoEngineShape PangoRenderFc gujarati:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so oryaScriptEngineFc PangoEngineShape PangoRenderFc oriya:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so tamlScriptEngineFc PangoEngineShape PangoRenderFc tamil:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so teluScriptEngineFc PangoEngineShape PangoRenderFc telugu:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so kndaScriptEngineFc PangoEngineShape PangoRenderFc kannada:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so mlymScriptEngineFc PangoEngineShape PangoRenderFc malayalam:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-fc.so sinhScriptEngineFc PangoEngineShape PangoRenderFc sinhala:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so devaIndicScriptEngineLang PangoEngineLang PangoRenderNone devanagari:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so bengIndicScriptEngineLang PangoEngineLang PangoRenderNone bengali:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so guruIndicScriptEngineLang PangoEngineLang PangoRenderNone gurmukhi:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so gujrIndicScriptEngineLang PangoEngineLang PangoRenderNone gujarati:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so oryaIndicScriptEngineLang PangoEngineLang PangoRenderNone oriya:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so tamlIndicScriptEngineLang PangoEngineLang PangoRenderNone tamil:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so teluIndicScriptEngineLang PangoEngineLang PangoRenderNone telugu:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so kndaIndicScriptEngineLang PangoEngineLang PangoRenderNone kannada:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so mlymIndicScriptEngineLang PangoEngineLang PangoRenderNone malayalam:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-indic-lang.so sinhIndicScriptEngineLang PangoEngineLang PangoRenderNone sinhala:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-khmer-fc.so KhmerScriptEngineFc PangoEngineShape PangoRenderFc khmer:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-syriac-fc.so SyriacScriptEngineFc PangoEngineShape PangoRenderFc syriac:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-thai-fc.so ThaiScriptEngineFc PangoEngineShape PangoRenderFc thai:* lao:*
+/Users/jeremywoertink/Development/shoes/rubybooty-gui/Shoes.app/Contents/MacOS/pango/modules/pango-tibetan-fc.so TibetanScriptEngineFc PangoEngineShape PangoRenderFc tibetan:*
